@@ -5,7 +5,7 @@ package _2_chapter;
 * we can call thread related methods by this.method() declaration instead of relying on static methods.
 * */
 
-public class _2_Lesson {
+public class _2_Example {
 
 	public static void main(String[] args) {
 		final Thread newThread = new NewThread();

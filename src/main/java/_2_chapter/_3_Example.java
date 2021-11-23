@@ -3,7 +3,7 @@ package _2_chapter;
 import java.util.List;
 import java.util.Random;
 
-public class _3_Lesson {
+public class _3_Example {
 	public static final int MAX_PASSWORD = 9999;
 
 	public static void main(String[] args) {

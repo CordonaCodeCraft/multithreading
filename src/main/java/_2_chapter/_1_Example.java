@@ -2,7 +2,7 @@ package _2_chapter;
 
 import static java.lang.Thread.*;
 
-public class _1_Lesson {
+public class _1_Example {
 
 	public static void main(String[] args) {
 		Thread thread = new Thread(() -> {
