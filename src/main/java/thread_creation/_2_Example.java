@@ -1,4 +1,4 @@
-package _2_chapter;
+package thread_creation;
 
 /*
 * This lesson demonstrates a new way of creating a thread with a private class. The benefit of this approach is, that

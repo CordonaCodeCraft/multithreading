@@ -1,4 +1,4 @@
-package _3_chapter.joining;
+package threads_coordination.joining;
 
 import java.math.BigInteger;
 

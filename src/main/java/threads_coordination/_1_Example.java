@@ -1,4 +1,4 @@
-package _3_chapter;
+package threads_coordination;
 
 public class _1_Example {
 	public static void main(String[] args) {

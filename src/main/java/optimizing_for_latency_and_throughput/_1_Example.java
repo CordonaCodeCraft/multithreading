@@ -1,4 +1,4 @@
-package _4_chapter;
+package optimizing_for_latency_and_throughput;
 
 /*	Performance in multithreading (Latency):
 	The performance in the context of multithreading is measured by two completely independent metrics:

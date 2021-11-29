@@ -1,4 +1,4 @@
-package _2_chapter;
+package thread_creation;
 
 import static java.lang.Thread.*;
 

@@ -1,4 +1,4 @@
-package _2_chapter.chalange;
+package thread_creation.chalange;
 
 import java.util.List;
 
